@@ -1,6 +1,6 @@
 # BlackJack
 
-BlackJack is an iOS card game that is designed to simulate the real life version of the casino game "BlackJack", also known as "21". The objective of BlackJack is to get as close to 21 (using the numbers on the cards) as you can, without going over 21. All face cards (Jack, Queen, and King) have a value of 10, and the Ace card can either be used as a 1 or an 11, dependant on the player. 
+BlackJack is an iOS card game that is designed to simulate the real life version of the casino game "BlackJack", also known as "21". The objective of BlackJack is to get as close to 21 (using the numbers on the cards) as you can, without going over 21. All face cards (Jack, Queen, and King) have a value of 10, and the Ace card can either be used as a 1 or an 11, depending on the player. 
 
 ## Code and Design
 
