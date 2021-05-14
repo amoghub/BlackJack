@@ -8,7 +8,7 @@ The player will go against the dealer, which has been desgined to know what the 
 
 Once the player is ready, they can hit the "Stand!" button to see who is the closest to 21. Player wins if dealer goes over 21, or if they are closer to 21. Dealer's total is also shown under their win label after each round is over.
 
-If the player would like to play again, all they have to do is click the "New Game!" button, which resets all values and begins a new game, showing new hands for both player and dealer.
+If the player would like to play again, all they have to do is click the "New Game!" button, which resets all values and begins a new game, showing new hands for both player and dealer. If the player wants to reset all cards with addition to the player and dealer scores, they can click the "Reset!" button.
 
 
 
@@ -24,5 +24,3 @@ Tested on iPhone 7 Plus.
 # Authors
 
 Amogh Kalyan - *Design and Code*
-
-Brian Nan - *Code*
