@@ -10,6 +10,11 @@ Once the player is ready, they can hit the "Stand!" button to see who is the clo
 
 If the player would like to play again, all they have to do is click the "New Game!" button, which resets all values and begins a new game, showing new hands for both player and dealer. If the player wants to reset all cards with addition to the player and dealer scores, they can click the "Reset!" button.
 
+## Demonstration
+
+Here is a 40 second clip of BlackJack in action (click to see on YouTube):
+
+[![BlackJack Demo](https://user-images.githubusercontent.com/80735346/118221770-469adb00-b44c-11eb-9032-1c355b9ef7cd.gif)](https://www.youtube.com/watch?v=VTVXbo-evro)
 
 
 
