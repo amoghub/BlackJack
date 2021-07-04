@@ -29,3 +29,5 @@ Tested on iPhone 7 Plus.
 # Authors
 
 Amogh Kalyan - *Design and Code*
+
+Brian Nan - *Code*
